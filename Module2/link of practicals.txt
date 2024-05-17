@@ -1,0 +1,7 @@
+link of jira
+
+https://sonalgwp.atlassian.net/jira/software/projects/FOOD/boards/3/backlog?epics=visible&atlOrigin=eyJpIjoiMGZkMzg0ZWZmMTFjNDllNDk2MTY5MGY1Yjc0MWFlMTYiLCJwIjoiaiJ9
+
+link of trello
+
+https://trello.com/invite/b/Qi1Oubdx/ATTIb94cd06fe97590fce2cbb73967fe6c7f36A2D0F8/food-delivery-app
